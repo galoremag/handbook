@@ -171,13 +171,13 @@ a {
 }
 
 a:hover {
-    color: #86c440;
+    color: hotpink;
 }
 
 a.btn {
 
     text-decoration: none;
-    background-color: hotpink;
+    background-color: pink;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     color: white;
@@ -197,7 +197,7 @@ a.btn {
 }
 
 a.btn:hover {
-    background: #86c440;
+    background: hotpink;
 }
 
 #header-arrow {
@@ -546,10 +546,10 @@ a.fn-item {
     color: white;
 }
 a.fn-item:hover {
-    color: hotpink;
+    color: pink;
 }
 a.fn-item.active {
-    color: #86c440;
+    color: hotpink;
     opacity: 1;
 
 }
