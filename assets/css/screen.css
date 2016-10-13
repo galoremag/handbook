@@ -453,7 +453,8 @@ ul li {
     margin-bottom: 0rem;
     text-align: center;
     color: #fff;
-    background: rgb(0, 153, 204) no-repeat center center;
+    /*background: rgb(0, 153, 204) no-repeat center center;*/
+    background: burlywood;
     background-size: cover;
 }
 
@@ -503,7 +504,8 @@ ul li {
     position: relative;
 }
 .post-holder.odd {
-    background: #0099cc;
+    /*background: #0099cc;*/
+    background: burlywood
     color: white;
 }
 
@@ -563,7 +565,8 @@ a.fn-item.active {
     height: 0;
     border-left: 60px solid transparent;
     border-right: 60px solid transparent;
-    border-top: 50px solid #f2efe8;
+    /*border-top: 50px solid #f2efe8;*/
+    border-top: 50px solid burlywood;
     border-radius: 25px;
 }
 .post-after.even {

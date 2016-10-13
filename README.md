@@ -1,3 +1,3 @@
-# GhostScroll 0.1.1
+# Galore HandBook 0.1.0
 All you need is here:
-http://ghostscroll.grmmph.com
+http://inside.galoremag.com
